@@ -5,3 +5,4 @@ red
 green
 blue
 white
+theres no special colors
