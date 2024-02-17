@@ -5,3 +5,4 @@ red
 blue
 green
 white
+new color
